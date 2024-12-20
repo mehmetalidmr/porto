@@ -251,7 +251,7 @@ footer{
     }
 
     .nav_links{
-        flex-direction: column; 
+        flex-direction: flex; 
         width: 100%; 
     }
 
