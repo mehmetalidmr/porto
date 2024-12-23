@@ -1,5 +1,4 @@
-
-*{
+*{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -252,7 +251,7 @@ footer{
 
     .nav_links{
         flex-direction: flex; 
-        width: 100%; 
+        width: 75%; 
     }
 
     .inner_anasayfa{
