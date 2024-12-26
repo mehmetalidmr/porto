@@ -317,7 +317,7 @@ footer{
     }
 
     .nav_links{
-        flex-direction: flex;
+        flex-direction: column;
         width: 90%; 
     }
 
