@@ -102,7 +102,9 @@ header{
 }
 
 .span_child{
-    color: #e0376f;
+    background: linear-gradient(45deg,#cb4583,hsl(65, 73%, 58%),#499cb1);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .child_anasayfa p{
